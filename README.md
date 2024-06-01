@@ -3,6 +3,8 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/tmuchlissin/python-project-for-data-engineering.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/tmuchlissin/python-project-for-data-engineering/watchers/)
+
 ## Disclaimer
 This repository contains my final project submission for the [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) course on Coursera. The Original files were provided by IBM Developer Skill Network for this course.
 
