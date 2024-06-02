@@ -16,7 +16,7 @@ In this project, the skills and knowledge of basic Python and data engineering p
 The data for this project will be obtained through web scraping using Python's Requests API from a public website. The goal is to compile a list of the top 10 largest banks globally based on their market capitalization, measured in billion USD. Once this initial data is extracted, it will be transformed into three additional currencies: GBP, EUR, and INR. The exchange rates necessary for this transformation will be sourced from a CSV file. After the transformation, the data will be saved locally in a CSV format, allowing for easy access and viewing. Additionally, the transformed data will be loaded into a database table, enabling managers from different countries to query the database and retrieve market capitalization values in their local currency, facilitating informed decision-making and analysis.
 
 ## Workflow
-![image](https://github.com/tmuchlissin/python-project-for-data-engineering/assets/117092055/1249baf7-01df-46c9-a1f9-b1123255214f)
+![image](https://github.com/tmuchlissin/python-project-for-data-engineering/assets/117092055/b5a00e81-a9a9-4c9c-b6e2-9883c2bc00c0)
 
 - Extract Data
 - Transform Data
